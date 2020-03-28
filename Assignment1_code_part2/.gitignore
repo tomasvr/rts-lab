@@ -1,0 +1,11 @@
+
+*.o
+*.trc
+*.a43
+*.log
+*.elf
+*.vcd-NPBASIC
+
+*.map
+
+*.lst
